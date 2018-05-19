@@ -1,5 +1,7 @@
 # StarApp2
 
+This is an app demo [App demo](https://angularfirebase.com/images/firestore-relational-data-stars.gif)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.3.
 
 ## Development server
